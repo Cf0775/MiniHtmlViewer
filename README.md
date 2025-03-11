@@ -7,5 +7,8 @@
 zip文件名即为首页列表中显示的名称。
 注意：这个zip包内的内根目录需要包含index.html 否则无法加载。
 (可选)在根目录下的favorite.ico祸favorite.png可作为首页列表中的Logo.
+<br>
 ![image](https://github.com/Cf0775/MiniHtmlViewer/blob/main/%E6%88%AA%E5%9B%BE1.PNG)
+<br>
 ![image](https://github.com/Cf0775/MiniHtmlViewer/blob/main/%E6%88%AA%E5%9B%BE2.PNG)
+<br>
